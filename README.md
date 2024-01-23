@@ -9,5 +9,5 @@ It displays a single scrollable screen containing static user information organi
 
 
 
-##Result
+## Result
 ![Example profile page](assets/images/Result.png)`
